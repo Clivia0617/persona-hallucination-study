@@ -1,0 +1,1352 @@
+[
+  {
+    "qid": "pop_fefcd02f",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Eve?",
+    "gold_answer": "Chris Brancato",
+    "aliases": [
+      "Chris Brancato"
+    ]
+  },
+  {
+    "qid": "pop_e589f511",
+    "dataset": "popqa",
+    "question": "Who is the author of The Impossible Dead?",
+    "gold_answer": "Ian Rankin",
+    "aliases": [
+      "Ian Rankin"
+    ]
+  },
+  {
+    "qid": "pop_9919dcde",
+    "dataset": "popqa",
+    "question": "Who is the father of Metacomet?",
+    "gold_answer": "Massasoit",
+    "aliases": [
+      "Massasoit"
+    ]
+  },
+  {
+    "qid": "pop_ee11bf83",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Well?",
+    "gold_answer": "Elizabeth Jolley",
+    "aliases": [
+      "Elizabeth Jolley"
+    ]
+  },
+  {
+    "qid": "pop_9cbbb72a",
+    "dataset": "popqa",
+    "question": "What genre is Hamilton?",
+    "gold_answer": "action film",
+    "aliases": [
+      "action film"
+    ]
+  },
+  {
+    "qid": "pop_5311cbc7",
+    "dataset": "popqa",
+    "question": "What is the capital of Netherlands?",
+    "gold_answer": "Amsterdam",
+    "aliases": [
+      "Amsterdam"
+    ]
+  },
+  {
+    "qid": "pop_d4543094",
+    "dataset": "popqa",
+    "question": "Who was the composer of The Party's Over?",
+    "gold_answer": "John Barry",
+    "aliases": [
+      "John Barry"
+    ]
+  },
+  {
+    "qid": "pop_6e764215",
+    "dataset": "popqa",
+    "question": "Who was the producer of Phagun?",
+    "gold_answer": "Rajinder Singh Bedi",
+    "aliases": [
+      "Rajinder Singh Bedi"
+    ]
+  },
+  {
+    "qid": "pop_57e7a84f",
+    "dataset": "popqa",
+    "question": "What is the capital of Comoros?",
+    "gold_answer": "Moroni",
+    "aliases": [
+      "Moroni"
+    ]
+  },
+  {
+    "qid": "pop_e8f9a6c9",
+    "dataset": "popqa",
+    "question": "Who was the composer of Robinson Crusoe, Jr.?",
+    "gold_answer": "Sigmund Romberg",
+    "aliases": [
+      "Sigmund Romberg"
+    ]
+  },
+  {
+    "qid": "pop_d6231e76",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Low Life?",
+    "gold_answer": "Im Kwon-taek",
+    "aliases": [
+      "Im Kwon-taek"
+    ]
+  },
+  {
+    "qid": "pop_d154eef7",
+    "dataset": "popqa",
+    "question": "Who is the father of Ours?",
+    "gold_answer": "Alain Souchon",
+    "aliases": [
+      "Alain Souchon"
+    ]
+  },
+  {
+    "qid": "pop_14162f1e",
+    "dataset": "popqa",
+    "question": "What genre is Opera?",
+    "gold_answer": "horror film",
+    "aliases": [
+      "horror film"
+    ]
+  },
+  {
+    "qid": "pop_fb13a7af",
+    "dataset": "popqa",
+    "question": "Who was the director of The Heroes?",
+    "gold_answer": "Wu Ma",
+    "aliases": [
+      "Wu Ma"
+    ]
+  },
+  {
+    "qid": "pop_c9502895",
+    "dataset": "popqa",
+    "question": "Who is the author of Castle?",
+    "gold_answer": "David Macaulay",
+    "aliases": [
+      "David Macaulay"
+    ]
+  },
+  {
+    "qid": "pop_1690507e",
+    "dataset": "popqa",
+    "question": "What genre is The Other Man?",
+    "gold_answer": "comedy film",
+    "aliases": [
+      "comedy film"
+    ]
+  },
+  {
+    "qid": "pop_7fa3c91d",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Robe?",
+    "gold_answer": "Lloyd C. Douglas",
+    "aliases": [
+      "Lloyd C. Douglas"
+    ]
+  },
+  {
+    "qid": "pop_98124e78",
+    "dataset": "popqa",
+    "question": "Who is the author of The State?",
+    "gold_answer": "Franz Oppenheimer",
+    "aliases": [
+      "Franz Oppenheimer"
+    ]
+  },
+  {
+    "qid": "pop_fefcd02f",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Eve?",
+    "gold_answer": "Natalie Portman",
+    "aliases": [
+      "Natalie Portman"
+    ]
+  },
+  {
+    "qid": "pop_a8a1209a",
+    "dataset": "popqa",
+    "question": "What is Þorsteinn Bachmann's occupation?",
+    "gold_answer": "actor",
+    "aliases": [
+      "actor"
+    ]
+  },
+  {
+    "qid": "pop_72416837",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Train?",
+    "gold_answer": "Gideon Raff",
+    "aliases": [
+      "Gideon Raff"
+    ]
+  },
+  {
+    "qid": "pop_a6eaf126",
+    "dataset": "popqa",
+    "question": "Who was the producer of What Just Happened?",
+    "gold_answer": "Robert De Niro",
+    "aliases": [
+      "Robert De Niro"
+    ]
+  },
+  {
+    "qid": "pop_85711f5b",
+    "dataset": "popqa",
+    "question": "What is Madrid the capital of?",
+    "gold_answer": "Community of Madrid",
+    "aliases": [
+      "Community of Madrid"
+    ]
+  },
+  {
+    "qid": "pop_880f5d15",
+    "dataset": "popqa",
+    "question": "What is Atsushi Kaneko's occupation?",
+    "gold_answer": "mangaka",
+    "aliases": [
+      "mangaka"
+    ]
+  },
+  {
+    "qid": "pop_76988f09",
+    "dataset": "popqa",
+    "question": "What genre is Crush?",
+    "gold_answer": "K-pop",
+    "aliases": [
+      "K-pop"
+    ]
+  },
+  {
+    "qid": "pop_24eda361",
+    "dataset": "popqa",
+    "question": "Who was the director of Impulse?",
+    "gold_answer": "Cy Endfield",
+    "aliases": [
+      "Cy Endfield"
+    ]
+  },
+  {
+    "qid": "pop_f33eefb0",
+    "dataset": "popqa",
+    "question": "What is the capital of Nan?",
+    "gold_answer": "Nan",
+    "aliases": [
+      "Nan"
+    ]
+  },
+  {
+    "qid": "pop_1ae29510",
+    "dataset": "popqa",
+    "question": "Who is the author of Dragon?",
+    "gold_answer": "Laurence Yep",
+    "aliases": [
+      "Laurence Yep"
+    ]
+  },
+  {
+    "qid": "pop_c4cc1246",
+    "dataset": "popqa",
+    "question": "Who was the producer of Wall Street?",
+    "gold_answer": "Harry Cohn",
+    "aliases": [
+      "Harry Cohn"
+    ]
+  },
+  {
+    "qid": "pop_3abc3935",
+    "dataset": "popqa",
+    "question": "In what country is Kowale, Lower Silesian Voivodeship?",
+    "gold_answer": "Poland",
+    "aliases": [
+      "Poland"
+    ]
+  },
+  {
+    "qid": "pop_2cdbdcdb",
+    "dataset": "popqa",
+    "question": "In what city was Dave Marsh born?",
+    "gold_answer": "Detroit",
+    "aliases": [
+      "Detroit"
+    ]
+  },
+  {
+    "qid": "pop_26619163",
+    "dataset": "popqa",
+    "question": "In what country is Ch'uch'u Apachita?",
+    "gold_answer": "Bolivia",
+    "aliases": [
+      "Bolivia"
+    ]
+  },
+  {
+    "qid": "pop_e18a7c2f",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for How to Deal?",
+    "gold_answer": "Sarah Dessen",
+    "aliases": [
+      "Sarah Dessen"
+    ]
+  },
+  {
+    "qid": "pop_8344bdfd",
+    "dataset": "popqa",
+    "question": "What genre is Rides?",
+    "gold_answer": "reality television",
+    "aliases": [
+      "reality television"
+    ]
+  },
+  {
+    "qid": "pop_257408e7",
+    "dataset": "popqa",
+    "question": "What genre is I'll Be There?",
+    "gold_answer": "pop music",
+    "aliases": [
+      "pop music"
+    ]
+  },
+  {
+    "qid": "pop_d854c153",
+    "dataset": "popqa",
+    "question": "Who is the author of Endpeace?",
+    "gold_answer": "Jon Cleary",
+    "aliases": [
+      "Jon Cleary"
+    ]
+  },
+  {
+    "qid": "pop_b0f4e800",
+    "dataset": "popqa",
+    "question": "What is City of Brussels the capital of?",
+    "gold_answer": "French Community of Belgium",
+    "aliases": [
+      "French Community of Belgium"
+    ]
+  },
+  {
+    "qid": "pop_99c78056",
+    "dataset": "popqa",
+    "question": "Who is the author of Adam?",
+    "gold_answer": "Ted Dekker",
+    "aliases": [
+      "Ted Dekker"
+    ]
+  },
+  {
+    "qid": "pop_de0c2b1b",
+    "dataset": "popqa",
+    "question": "What genre is The Wicked?",
+    "gold_answer": "horror film",
+    "aliases": [
+      "horror film"
+    ]
+  },
+  {
+    "qid": "pop_626e9f39",
+    "dataset": "popqa",
+    "question": "Who is the author of Kanojo wa Uso o Aishisugiteru?",
+    "gold_answer": "Kotomi Aoki",
+    "aliases": [
+      "Kotomi Aoki"
+    ]
+  },
+  {
+    "qid": "pop_e258e846",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Days and Nights?",
+    "gold_answer": "Christian Camargo",
+    "aliases": [
+      "Christian Camargo"
+    ]
+  },
+  {
+    "qid": "pop_1776acc9",
+    "dataset": "popqa",
+    "question": "Who is the author of Small Changes?",
+    "gold_answer": "Hal Clement",
+    "aliases": [
+      "Hal Clement"
+    ]
+  },
+  {
+    "qid": "pop_8d4cb69e",
+    "dataset": "popqa",
+    "question": "What genre is Castle Freak?",
+    "gold_answer": "horror film",
+    "aliases": [
+      "horror film"
+    ]
+  },
+  {
+    "qid": "pop_30d10821",
+    "dataset": "popqa",
+    "question": "What genre is Severity?",
+    "gold_answer": "first-person shooter",
+    "aliases": [
+      "first-person shooter"
+    ]
+  },
+  {
+    "qid": "pop_e0e09709",
+    "dataset": "popqa",
+    "question": "Who was the composer of The Bolt?",
+    "gold_answer": "Dmitri Shostakovich",
+    "aliases": [
+      "Dmitri Shostakovich"
+    ]
+  },
+  {
+    "qid": "pop_3249d457",
+    "dataset": "popqa",
+    "question": "What is Delhi the capital of?",
+    "gold_answer": "Lodhi dynasty",
+    "aliases": [
+      "Lodhi dynasty"
+    ]
+  },
+  {
+    "qid": "pop_cf7a91eb",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Callback Queen?",
+    "gold_answer": "Graham Cantwell",
+    "aliases": [
+      "Graham Cantwell"
+    ]
+  },
+  {
+    "qid": "pop_20ec1195",
+    "dataset": "popqa",
+    "question": "What genre is Out There?",
+    "gold_answer": "bebop",
+    "aliases": [
+      "bebop"
+    ]
+  },
+  {
+    "qid": "pop_a6238242",
+    "dataset": "popqa",
+    "question": "Who was the producer of The Pioneers?",
+    "gold_answer": "Franklyn Barrett",
+    "aliases": [
+      "Franklyn Barrett"
+    ]
+  },
+  {
+    "qid": "pop_02ad4f7c",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for 100?",
+    "gold_answer": "Brad Falchuk",
+    "aliases": [
+      "Brad Falchuk"
+    ]
+  },
+  {
+    "qid": "pop_0b61842e",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Stranger?",
+    "gold_answer": "Victor Trivas",
+    "aliases": [
+      "Victor Trivas"
+    ]
+  },
+  {
+    "qid": "pop_da7f8181",
+    "dataset": "popqa",
+    "question": "Who was the director of Taken?",
+    "gold_answer": "Pierre Morel",
+    "aliases": [
+      "Pierre Morel"
+    ]
+  },
+  {
+    "qid": "pop_4bdce95c",
+    "dataset": "popqa",
+    "question": "In what country is Teshima?",
+    "gold_answer": "Japan",
+    "aliases": [
+      "Japan"
+    ]
+  },
+  {
+    "qid": "pop_2215a718",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Growth?",
+    "gold_answer": "Gabriel Cowan",
+    "aliases": [
+      "Gabriel Cowan"
+    ]
+  },
+  {
+    "qid": "pop_e89fae00",
+    "dataset": "popqa",
+    "question": "Who is the author of The Reader?",
+    "gold_answer": "Bernhard Schlink",
+    "aliases": [
+      "Bernhard Schlink"
+    ]
+  },
+  {
+    "qid": "pop_58dd7891",
+    "dataset": "popqa",
+    "question": "Who is the author of The Bread?",
+    "gold_answer": "Wolfgang Borchert",
+    "aliases": [
+      "Wolfgang Borchert"
+    ]
+  },
+  {
+    "qid": "pop_f773f0f5",
+    "dataset": "popqa",
+    "question": "What is the religion of Frank Pavone?",
+    "gold_answer": "Catholic Church",
+    "aliases": [
+      "Catholic Church"
+    ]
+  },
+  {
+    "qid": "pop_10362d6f",
+    "dataset": "popqa",
+    "question": "Who is the father of Eunomia?",
+    "gold_answer": "Zeus",
+    "aliases": [
+      "Zeus"
+    ]
+  },
+  {
+    "qid": "pop_4c6125e5",
+    "dataset": "popqa",
+    "question": "What sport does Andrés Bottiglieri play?",
+    "gold_answer": "association football",
+    "aliases": [
+      "association football"
+    ]
+  },
+  {
+    "qid": "pop_21ed8ff8",
+    "dataset": "popqa",
+    "question": "Who was the producer of Drushyam?",
+    "gold_answer": "Rajkumar Sethupathi",
+    "aliases": [
+      "Rajkumar Sethupathi"
+    ]
+  },
+  {
+    "qid": "pop_c4fc0930",
+    "dataset": "popqa",
+    "question": "Who was the director of Christian?",
+    "gold_answer": "Gabriel Axel",
+    "aliases": [
+      "Gabriel Axel"
+    ]
+  },
+  {
+    "qid": "pop_03ebcf84",
+    "dataset": "popqa",
+    "question": "What color is En Avant de Guingamp?",
+    "gold_answer": "red",
+    "aliases": [
+      "red"
+    ]
+  },
+  {
+    "qid": "pop_044100e7",
+    "dataset": "popqa",
+    "question": "Who was the composer of String quartets?",
+    "gold_answer": "Arnold Schoenberg",
+    "aliases": [
+      "Arnold Schoenberg"
+    ]
+  },
+  {
+    "qid": "pop_4940982d",
+    "dataset": "popqa",
+    "question": "Who was the director of Mohini 9886788888?",
+    "gold_answer": "Rajendra Singh Babu",
+    "aliases": [
+      "Rajendra Singh Babu"
+    ]
+  },
+  {
+    "qid": "pop_abd30eb6",
+    "dataset": "popqa",
+    "question": "Who was the director of The Conscience of the King?",
+    "gold_answer": "Gerd Oswald",
+    "aliases": [
+      "Gerd Oswald"
+    ]
+  },
+  {
+    "qid": "pop_1f7a7774",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Doll?",
+    "gold_answer": "Wojciech Jerzy Has",
+    "aliases": [
+      "Wojciech Jerzy Has"
+    ]
+  },
+  {
+    "qid": "pop_3f701c0a",
+    "dataset": "popqa",
+    "question": "Who was the director of The Coon?",
+    "gold_answer": "Trey Parker",
+    "aliases": [
+      "Trey Parker"
+    ]
+  },
+  {
+    "qid": "pop_bacabe28",
+    "dataset": "popqa",
+    "question": "What genre is Rude Kids?",
+    "gold_answer": "punk rock",
+    "aliases": [
+      "punk rock"
+    ]
+  },
+  {
+    "qid": "pop_5ac15e23",
+    "dataset": "popqa",
+    "question": "In what country is Florencia?",
+    "gold_answer": "Colombia",
+    "aliases": [
+      "Colombia"
+    ]
+  },
+  {
+    "qid": "pop_2b99e56a",
+    "dataset": "popqa",
+    "question": "In what country is Saint Jean Hulst?",
+    "gold_answer": "France",
+    "aliases": [
+      "France"
+    ]
+  },
+  {
+    "qid": "pop_1d85b814",
+    "dataset": "popqa",
+    "question": "In what city was George Maluleka born?",
+    "gold_answer": "Tembisa",
+    "aliases": [
+      "Tembisa"
+    ]
+  },
+  {
+    "qid": "pop_8c751f58",
+    "dataset": "popqa",
+    "question": "Who was the producer of The Men?",
+    "gold_answer": "Stanley Kramer",
+    "aliases": [
+      "Stanley Kramer"
+    ]
+  },
+  {
+    "qid": "pop_544470bf",
+    "dataset": "popqa",
+    "question": "What is Jim Boyd's occupation?",
+    "gold_answer": "actor",
+    "aliases": [
+      "actor"
+    ]
+  },
+  {
+    "qid": "pop_dfec8e57",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Tobacco?",
+    "gold_answer": "Dimitar Dimov",
+    "aliases": [
+      "Dimitar Dimov"
+    ]
+  },
+  {
+    "qid": "pop_54995359",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Smurfs: A Christmas Carol?",
+    "gold_answer": "Todd Berger",
+    "aliases": [
+      "Todd Berger"
+    ]
+  },
+  {
+    "qid": "pop_fc944631",
+    "dataset": "popqa",
+    "question": "In what country is Tangal-e Behdan?",
+    "gold_answer": "Iran",
+    "aliases": [
+      "Iran"
+    ]
+  },
+  {
+    "qid": "pop_cf818513",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for What Happened Was?",
+    "gold_answer": "Tom Noonan",
+    "aliases": [
+      "Tom Noonan"
+    ]
+  },
+  {
+    "qid": "pop_0d30255c",
+    "dataset": "popqa",
+    "question": "In what country is Francis?",
+    "gold_answer": "Canada",
+    "aliases": [
+      "Canada"
+    ]
+  },
+  {
+    "qid": "pop_8db39e9a",
+    "dataset": "popqa",
+    "question": "What is Jacopo Melani's occupation?",
+    "gold_answer": "composer",
+    "aliases": [
+      "composer"
+    ]
+  },
+  {
+    "qid": "pop_8c1a5e24",
+    "dataset": "popqa",
+    "question": "What genre is Galaxy?",
+    "gold_answer": "jazz",
+    "aliases": [
+      "jazz"
+    ]
+  },
+  {
+    "qid": "pop_5e801c8a",
+    "dataset": "popqa",
+    "question": "What sport does 2011–12 Elon Phoenix men's basketball team play?",
+    "gold_answer": "basketball",
+    "aliases": [
+      "basketball"
+    ]
+  },
+  {
+    "qid": "pop_7ada3599",
+    "dataset": "popqa",
+    "question": "Who was the composer of Tron?",
+    "gold_answer": "Wendy Carlos",
+    "aliases": [
+      "Wendy Carlos"
+    ]
+  },
+  {
+    "qid": "pop_48746fa4",
+    "dataset": "popqa",
+    "question": "In what city was Petros Tabouris born?",
+    "gold_answer": "Athens",
+    "aliases": [
+      "Athens"
+    ]
+  },
+  {
+    "qid": "pop_9a0d24f0",
+    "dataset": "popqa",
+    "question": "In what country is Hotel Indonesia?",
+    "gold_answer": "Indonesia",
+    "aliases": [
+      "Indonesia"
+    ]
+  },
+  {
+    "qid": "pop_48c2085c",
+    "dataset": "popqa",
+    "question": "In what city was Archibald Willard born?",
+    "gold_answer": "Bedford",
+    "aliases": [
+      "Bedford"
+    ]
+  },
+  {
+    "qid": "pop_393a4e89",
+    "dataset": "popqa",
+    "question": "What is Petr Mlsna's occupation?",
+    "gold_answer": "politician",
+    "aliases": [
+      "politician"
+    ]
+  },
+  {
+    "qid": "pop_18fc3af7",
+    "dataset": "popqa",
+    "question": "What is the capital of Iron County?",
+    "gold_answer": "Ironton",
+    "aliases": [
+      "Ironton"
+    ]
+  },
+  {
+    "qid": "pop_44658bdf",
+    "dataset": "popqa",
+    "question": "Who was the producer of Mission: Impossible – Rogue Nation?",
+    "gold_answer": "Tom Cruise",
+    "aliases": [
+      "Tom Cruise"
+    ]
+  },
+  {
+    "qid": "pop_ff754fbf",
+    "dataset": "popqa",
+    "question": "What genre is Terri?",
+    "gold_answer": "teen film",
+    "aliases": [
+      "teen film"
+    ]
+  },
+  {
+    "qid": "pop_d0642398",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Invasion?",
+    "gold_answer": "Mark Wilding",
+    "aliases": [
+      "Mark Wilding"
+    ]
+  },
+  {
+    "qid": "pop_86d60a0a",
+    "dataset": "popqa",
+    "question": "In what country is Contest?",
+    "gold_answer": "France",
+    "aliases": [
+      "France"
+    ]
+  },
+  {
+    "qid": "pop_593b7078",
+    "dataset": "popqa",
+    "question": "Who was the producer of Highway?",
+    "gold_answer": "Scott Rosenberg",
+    "aliases": [
+      "Scott Rosenberg"
+    ]
+  },
+  {
+    "qid": "pop_c14a72f9",
+    "dataset": "popqa",
+    "question": "Who was the composer of Gang?",
+    "gold_answer": "Anu Malik",
+    "aliases": [
+      "Anu Malik"
+    ]
+  },
+  {
+    "qid": "pop_394a4c47",
+    "dataset": "popqa",
+    "question": "What is Laishevo the capital of?",
+    "gold_answer": "Laishevsky District",
+    "aliases": [
+      "Laishevsky District"
+    ]
+  },
+  {
+    "qid": "pop_ea429012",
+    "dataset": "popqa",
+    "question": "In what country is Cora?",
+    "gold_answer": "United States of America",
+    "aliases": [
+      "United States of America"
+    ]
+  },
+  {
+    "qid": "pop_b792cc90",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Pilot?",
+    "gold_answer": "Alex Kurtzman",
+    "aliases": [
+      "Alex Kurtzman"
+    ]
+  },
+  {
+    "qid": "pop_85b1574d",
+    "dataset": "popqa",
+    "question": "What genre is In Silence?",
+    "gold_answer": "rock music",
+    "aliases": [
+      "rock music"
+    ]
+  },
+  {
+    "qid": "pop_8ca8e6ab",
+    "dataset": "popqa",
+    "question": "What sport does James Rodríguez play?",
+    "gold_answer": "association football",
+    "aliases": [
+      "association football"
+    ]
+  },
+  {
+    "qid": "pop_0ed48115",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Cages?",
+    "gold_answer": "Graham Streeter",
+    "aliases": [
+      "Graham Streeter"
+    ]
+  },
+  {
+    "qid": "pop_d087aa76",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Indian?",
+    "gold_answer": "Shankar",
+    "aliases": [
+      "Shankar"
+    ]
+  },
+  {
+    "qid": "pop_39adc9b7",
+    "dataset": "popqa",
+    "question": "What is Teramo the capital of?",
+    "gold_answer": "Province of Teramo",
+    "aliases": [
+      "Province of Teramo"
+    ]
+  },
+  {
+    "qid": "pop_f162fcf0",
+    "dataset": "popqa",
+    "question": "In what country is Minister for Health?",
+    "gold_answer": "Australia",
+    "aliases": [
+      "Australia"
+    ]
+  },
+  {
+    "qid": "pop_2fb13720",
+    "dataset": "popqa",
+    "question": "Who is the author of America?",
+    "gold_answer": "David Javerbaum",
+    "aliases": [
+      "David Javerbaum"
+    ]
+  },
+  {
+    "qid": "pop_51b150b5",
+    "dataset": "popqa",
+    "question": "What is Tyler the capital of?",
+    "gold_answer": "Smith County",
+    "aliases": [
+      "Smith County"
+    ]
+  },
+  {
+    "qid": "pop_8b36d0d7",
+    "dataset": "popqa",
+    "question": "Who is the author of Washington, D.C.?",
+    "gold_answer": "Gore Vidal",
+    "aliases": [
+      "Gore Vidal"
+    ]
+  },
+  {
+    "qid": "pop_b50c368c",
+    "dataset": "popqa",
+    "question": "Who was the director of The Promotion?",
+    "gold_answer": "Steven Conrad",
+    "aliases": [
+      "Steven Conrad"
+    ]
+  },
+  {
+    "qid": "pop_61e0f8ad",
+    "dataset": "popqa",
+    "question": "Who is the father of George Dance the Younger?",
+    "gold_answer": "George Dance the Elder",
+    "aliases": [
+      "George Dance the Elder"
+    ]
+  },
+  {
+    "qid": "pop_d24000c0",
+    "dataset": "popqa",
+    "question": "What genre is One Water?",
+    "gold_answer": "documentary film",
+    "aliases": [
+      "documentary film"
+    ]
+  },
+  {
+    "qid": "pop_315b1e4d",
+    "dataset": "popqa",
+    "question": "What genre is Hinder?",
+    "gold_answer": "hard rock",
+    "aliases": [
+      "hard rock"
+    ]
+  },
+  {
+    "qid": "pop_00d8eaa3",
+    "dataset": "popqa",
+    "question": "Who was the composer of Hero?",
+    "gold_answer": "Mani Sharma",
+    "aliases": [
+      "Mani Sharma"
+    ]
+  },
+  {
+    "qid": "pop_c4854115",
+    "dataset": "popqa",
+    "question": "Who was the director of The Perfect Man?",
+    "gold_answer": "Mark Rosman",
+    "aliases": [
+      "Mark Rosman"
+    ]
+  },
+  {
+    "qid": "pop_590644d6",
+    "dataset": "popqa",
+    "question": "Who was the director of The Designated Mourner?",
+    "gold_answer": "David Hare",
+    "aliases": [
+      "David Hare"
+    ]
+  },
+  {
+    "qid": "pop_f7daa056",
+    "dataset": "popqa",
+    "question": "Who was the director of The Delta?",
+    "gold_answer": "Ira Sachs",
+    "aliases": [
+      "Ira Sachs"
+    ]
+  },
+  {
+    "qid": "pop_d7987890",
+    "dataset": "popqa",
+    "question": "Who was the director of Like Crazy?",
+    "gold_answer": "Drake Doremus",
+    "aliases": [
+      "Drake Doremus"
+    ]
+  },
+  {
+    "qid": "pop_d52af5b4",
+    "dataset": "popqa",
+    "question": "Who was the director of Something for Everyone?",
+    "gold_answer": "Harold Prince",
+    "aliases": [
+      "Harold Prince"
+    ]
+  },
+  {
+    "qid": "pop_eb0f2520",
+    "dataset": "popqa",
+    "question": "What is the capital of Merthyr Tydfil County Borough?",
+    "gold_answer": "Merthyr Tydfil",
+    "aliases": [
+      "Merthyr Tydfil"
+    ]
+  },
+  {
+    "qid": "pop_4d7bfe58",
+    "dataset": "popqa",
+    "question": "Who is the author of Crash?",
+    "gold_answer": "J. G. Ballard",
+    "aliases": [
+      "J. G. Ballard"
+    ]
+  },
+  {
+    "qid": "pop_f755964e",
+    "dataset": "popqa",
+    "question": "In what city was Jiang Mianheng born?",
+    "gold_answer": "Shanghai",
+    "aliases": [
+      "Shanghai"
+    ]
+  },
+  {
+    "qid": "pop_9f985218",
+    "dataset": "popqa",
+    "question": "What color is flag of Colorado?",
+    "gold_answer": "red",
+    "aliases": [
+      "red"
+    ]
+  },
+  {
+    "qid": "pop_8fd8a644",
+    "dataset": "popqa",
+    "question": "Who was the composer of How Many More Times?",
+    "gold_answer": "Jimmy Page",
+    "aliases": [
+      "Jimmy Page"
+    ]
+  },
+  {
+    "qid": "pop_c32996a7",
+    "dataset": "popqa",
+    "question": "Who was the composer of The Omen?",
+    "gold_answer": "Jerry Goldsmith",
+    "aliases": [
+      "Jerry Goldsmith"
+    ]
+  },
+  {
+    "qid": "pop_bfa8e094",
+    "dataset": "popqa",
+    "question": "What genre is Living Space?",
+    "gold_answer": "science fiction",
+    "aliases": [
+      "science fiction"
+    ]
+  },
+  {
+    "qid": "pop_58de4986",
+    "dataset": "popqa",
+    "question": "In what city was JB Magsaysay born?",
+    "gold_answer": "San Juan",
+    "aliases": [
+      "San Juan"
+    ]
+  },
+  {
+    "qid": "pop_db8b00ba",
+    "dataset": "popqa",
+    "question": "Who was the director of The Anniversary?",
+    "gold_answer": "Roy Ward Baker",
+    "aliases": [
+      "Roy Ward Baker"
+    ]
+  },
+  {
+    "qid": "pop_a53af7f6",
+    "dataset": "popqa",
+    "question": "Who is the author of Bed?",
+    "gold_answer": "Tao Lin",
+    "aliases": [
+      "Tao Lin"
+    ]
+  },
+  {
+    "qid": "pop_b77dfb83",
+    "dataset": "popqa",
+    "question": "Who was the producer of Muthukku Muthaaga?",
+    "gold_answer": "Rasu Madhuravan",
+    "aliases": [
+      "Rasu Madhuravan"
+    ]
+  },
+  {
+    "qid": "pop_6d304a52",
+    "dataset": "popqa",
+    "question": "Who is the author of The Sun Chemist?",
+    "gold_answer": "Lionel Davidson",
+    "aliases": [
+      "Lionel Davidson"
+    ]
+  },
+  {
+    "qid": "pop_0df3730c",
+    "dataset": "popqa",
+    "question": "What is the capital of Kingdom of Hanover?",
+    "gold_answer": "Hanover",
+    "aliases": [
+      "Hanover"
+    ]
+  },
+  {
+    "qid": "pop_3da77b83",
+    "dataset": "popqa",
+    "question": "What genre is Tales?",
+    "gold_answer": "role-playing video game",
+    "aliases": [
+      "role-playing video game"
+    ]
+  },
+  {
+    "qid": "pop_a5b705b1",
+    "dataset": "popqa",
+    "question": "In what country is Sutlepa?",
+    "gold_answer": "Estonia",
+    "aliases": [
+      "Estonia"
+    ]
+  },
+  {
+    "qid": "pop_afcba5c0",
+    "dataset": "popqa",
+    "question": "Who is the father of Jacob?",
+    "gold_answer": "Isaac",
+    "aliases": [
+      "Isaac"
+    ]
+  },
+  {
+    "qid": "pop_63d39ae2",
+    "dataset": "popqa",
+    "question": "Who is the father of Telerig of Bulgaria?",
+    "gold_answer": "Telets of Bulgaria",
+    "aliases": [
+      "Telets of Bulgaria"
+    ]
+  },
+  {
+    "qid": "pop_ba7a3a17",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for The Teaser?",
+    "gold_answer": "Lewis Milestone",
+    "aliases": [
+      "Lewis Milestone"
+    ]
+  },
+  {
+    "qid": "pop_31ae698c",
+    "dataset": "popqa",
+    "question": "Who was the director of Holiday?",
+    "gold_answer": "Pooja Bhatt",
+    "aliases": [
+      "Pooja Bhatt"
+    ]
+  },
+  {
+    "qid": "pop_64a5edb2",
+    "dataset": "popqa",
+    "question": "What genre is Granado Espada?",
+    "gold_answer": "fantasy",
+    "aliases": [
+      "fantasy"
+    ]
+  },
+  {
+    "qid": "pop_d62090ab",
+    "dataset": "popqa",
+    "question": "Who was the director of The Band?",
+    "gold_answer": "Avi Nesher",
+    "aliases": [
+      "Avi Nesher"
+    ]
+  },
+  {
+    "qid": "pop_f4920787",
+    "dataset": "popqa",
+    "question": "Who is the father of Harry Augustus Garfield?",
+    "gold_answer": "James A. Garfield",
+    "aliases": [
+      "James A. Garfield"
+    ]
+  },
+  {
+    "qid": "pop_b00688e7",
+    "dataset": "popqa",
+    "question": "Who was the producer of Northern Lights?",
+    "gold_answer": "Rob Nilsson",
+    "aliases": [
+      "Rob Nilsson"
+    ]
+  },
+  {
+    "qid": "pop_cfa1ac86",
+    "dataset": "popqa",
+    "question": "Who was the director of Positive?",
+    "gold_answer": "Rosa von Praunheim",
+    "aliases": [
+      "Rosa von Praunheim"
+    ]
+  },
+  {
+    "qid": "pop_f273d0cf",
+    "dataset": "popqa",
+    "question": "In what country is Willow River?",
+    "gold_answer": "United States of America",
+    "aliases": [
+      "United States of America"
+    ]
+  },
+  {
+    "qid": "pop_cb5a3cf3",
+    "dataset": "popqa",
+    "question": "What genre is Faster?",
+    "gold_answer": "action film",
+    "aliases": [
+      "action film"
+    ]
+  },
+  {
+    "qid": "pop_37c62213",
+    "dataset": "popqa",
+    "question": "Who was the director of Secrets?",
+    "gold_answer": "Frank Borzage",
+    "aliases": [
+      "Frank Borzage"
+    ]
+  },
+  {
+    "qid": "pop_d1732940",
+    "dataset": "popqa",
+    "question": "Who is the author of The Great Automatic Grammatizator?",
+    "gold_answer": "Roald Dahl",
+    "aliases": [
+      "Roald Dahl"
+    ]
+  },
+  {
+    "qid": "pop_ce4f0a01",
+    "dataset": "popqa",
+    "question": "What is the capital of Gulf Province?",
+    "gold_answer": "Kerema",
+    "aliases": [
+      "Kerema"
+    ]
+  },
+  {
+    "qid": "pop_9779e53d",
+    "dataset": "popqa",
+    "question": "What is the capital of Province of Florence?",
+    "gold_answer": "Florence",
+    "aliases": [
+      "Florence"
+    ]
+  },
+  {
+    "qid": "pop_aaa893db",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Le Divorce?",
+    "gold_answer": "Ruth Prawer Jhabvala",
+    "aliases": [
+      "Ruth Prawer Jhabvala"
+    ]
+  },
+  {
+    "qid": "pop_11f34eb5",
+    "dataset": "popqa",
+    "question": "What genre is I Am?",
+    "gold_answer": "documentary film",
+    "aliases": [
+      "documentary film"
+    ]
+  },
+  {
+    "qid": "pop_8e729e73",
+    "dataset": "popqa",
+    "question": "In what city was Raimonds Vilde born?",
+    "gold_answer": "Riga",
+    "aliases": [
+      "Riga"
+    ]
+  },
+  {
+    "qid": "pop_16921bc0",
+    "dataset": "popqa",
+    "question": "Who was the composer of Shaft?",
+    "gold_answer": "Isaac Hayes",
+    "aliases": [
+      "Isaac Hayes"
+    ]
+  },
+  {
+    "qid": "pop_158c1533",
+    "dataset": "popqa",
+    "question": "Who was the screenwriter for Trapped in a Forest Fire?",
+    "gold_answer": "Jacques Jaccard",
+    "aliases": [
+      "Jacques Jaccard"
+    ]
+  }
+]
